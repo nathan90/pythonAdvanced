@@ -2,3 +2,4 @@ file.txt
 text.txt
 
 *.jpg
+__pycache__/
